@@ -14,14 +14,16 @@
    * %Lower Frame was built.%
      * %The screws are not entirely secure. The frame is stable enough for flight.%
    * %The power supply board was soldered to the battery connector.%
-   * %Soldered an LED to the PSB for power indication.%
    * %Soldered the ESCs to the PSB.%
+   * %Soldered the XT60 Connector to the cables.%
+   * %Soldered an LED to the PSB for power indication.%
    
    ## Next Steps
    
    * %Bring a set of hex screwdrivers.%
    * %Bring your own solder.%
-   * %Suggestion 3%
+   * %Bring Electric Tape and Zipties%
+   
 
    ## Pictures
    ### %Soldering%
@@ -35,4 +37,6 @@
    ### %Power Supply Board%
    
    ![%Power Supply Board%](%https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/Lab%20Picture/power%20supply%20board.jpg% "%PSB picture%")
-
+   
+   ### %Soldered PSB%
+   ![%Soldered PSB%](%% "%Soldered PSB picture%")
