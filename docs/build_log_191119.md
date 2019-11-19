@@ -39,4 +39,4 @@
    ![%Power Supply Board%](%https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/Lab%20Picture/power%20supply%20board.jpg% "%PSB picture%")
    
    ### %Soldered PSB%
-   ![%Soldered PSB%](%https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/Lab%20Picture/Soldered%20PSB.PNG% "%Soldered PSB picture%")
+   ![%Soldered PSB%](%https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/Lab%20Picture/Soldered%20PSB.PNG?raw=true% "%Soldered PSB picture%")
