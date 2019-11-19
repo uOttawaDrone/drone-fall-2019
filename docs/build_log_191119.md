@@ -28,3 +28,5 @@
    ### %Power Supply Board%
    
    ![%Power Supply Board%](%https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/Lab%20Picture/power%20supply%20board.jpg% "%PSB picture%")
+
+# LAB session is ongoing.
