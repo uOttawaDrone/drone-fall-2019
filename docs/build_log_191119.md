@@ -6,8 +6,7 @@
    ## Observations
     
    * We will need a small hex screwdriver needed for the frame (size not know).
-   //  * Bullet Point 1A
-   //* Bullet Point 2
+   
     
    ## Changes Made
     
@@ -24,7 +23,9 @@
    
    * Bring a set of hex screwdrivers.
    * Bring your own solder.
-   * Bring Electric Tape and Zipties.
+   * Bring longer screws to mount PSB to drone frame
+   * Bring cable ties
+   * Bring lipo battery to test circuit and motors
    
 
    ## Pictures
