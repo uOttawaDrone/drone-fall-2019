@@ -4,7 +4,7 @@
   
    ## Observations
     
-   * We will need a small hex screwdriver needed for the frame (size not know).
+   * We will need a small hex screwdriver needed for the frame (size not known).
    * Might Need flux for future, smaller solders.
    
     
@@ -17,17 +17,21 @@
    * Soldered the XT60 Connector to the cables.
    * Soldered an LED indicator to the PSB for power indication.
    * Taped off the PSB pads with electric tape as carbon fiber conducts electricity.
-   * Assembeld the PSB with the lowerframe
+   * Assembeld the PSB with the lower frame
    * Ziptied the ESCs to the arms of the
    
    ## Next Steps
    
+   * The next steps consists in testing the motors and soldering them to the ESCs.
+   * Add the radio receiver for the RC and test it.
+   * From there the motors can be fixed to the frame.
+   * The Flight controler, receiver and battery can be fixed to the frame.
    * Bring a set of hex screwdrivers (kit).
    * Bring your own solder.
    * Bring longer screws to mount PSB to drone frame.
    * Bring cable ties.
    * Bring lipo battery to test circuit and motors. 
-   * USB mini B is needed 
+   * USB mini B cable is needed.
    
 
    ## Pictures
