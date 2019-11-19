@@ -24,7 +24,9 @@
    
    * Bring a set of hex screwdrivers.
    * Bring your own solder.
-   * Bring Electric Tape and Zipties.
+   * Bring cable ties
+   * Bring longer screws to mount PSB to drone frame
+   * Bring the battery to test circuit and motors
    
 
    ## Pictures
