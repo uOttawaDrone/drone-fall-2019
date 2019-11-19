@@ -1,5 +1,5 @@
   # LAB session is ongoing.
-  # Build Log  -%2019/11/19% 
+  # Build Log -%2019/11/19% 
     
    **Group Members:** % Kevin Toussaint %, %Victor Babineau%, %Sharabhoj Iyengar%, %Ahmed Al-Youssef%
   
