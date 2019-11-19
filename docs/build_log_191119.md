@@ -24,7 +24,7 @@
     
    ### %Lower Frame without PSB:%
     
-   ![Lower Frame](docs/Lab Picture/Lower frame.jpg "%Lower Frame Picture%")
+   ![Lower Frame](%https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/Lab%20Picture/Lower%20frame.jpg% "% Lower Frame%")
    ### %Power Supply Board%
    
-   ![%Power Supply Board%](% %PSB picture%")
+   ![%Power Supply Board%](%https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/Lab%20Picture/power%20supply%20board.jpg% "%PSB picture%")
