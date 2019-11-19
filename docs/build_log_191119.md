@@ -1,11 +1,11 @@
-  # LAB session is ongoing.
-  # Build Log -2019/11/19 
+  # Build Log -2019/11/19  (10:30-18:00)
     
-   **Group Members:**  Kevin Toussaint , Victor Babineau, Sharabhoj Iyengar, Ahmed Al-Youssef, Arjuunan Arulnamby
+   **Group Members:**  Kevin Toussaint(Full session) , Victor Babineau(Full session), Sharabhoj Iyengar(12-18), Ahmed Al-Youssef(16-17), Arjuunan Arulnamby(13-18)
   
    ## Observations
     
    * We will need a small hex screwdriver needed for the frame (size not know).
+   * Might Need flux for future, smaller solders.
    
     
    ## Changes Made
@@ -15,17 +15,19 @@
    * The power supply board was soldered to the battery connector.
    * Soldered the ESCs to the PSB.
    * Soldered the XT60 Connector to the cables.
-   * Soldered an LED to the PSB for power indication.
+   * Soldered an LED indicator to the PSB for power indication.
    * Taped off the PSB pads with electric tape as carbon fiber conducts electricity.
-   *
+   * Assembeld the PSB with the lowerframe
+   * Ziptied the ESCs to the arms of the
    
    ## Next Steps
    
-   * Bring a set of hex screwdrivers.
+   * Bring a set of hex screwdrivers (kit).
    * Bring your own solder.
-   * Bring longer screws to mount PSB to drone frame
-   * Bring cable ties
-   * Bring lipo battery to test circuit and motors
+   * Bring longer screws to mount PSB to drone frame.
+   * Bring cable ties.
+   * Bring lipo battery to test circuit and motors. 
+   * USB mini B is needed 
    
 
    ## Pictures
@@ -45,3 +47,10 @@
    
    ### Soldered PSB
    ![Soldered PSB](https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/Lab%20Picture/Soldered%20PSB.PNG?raw=true "Soldered PSB picture")
+   
+   ### PSB Frame Assembly
+   ![Assembly](https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/Lab%20Picture/Lower%20frame4.jpg "Assemblly")
+   
+   ### Things to buy:
+   * FPV Camera (Optional)
+   * FPV Transmitter and receiver (Optional)  
