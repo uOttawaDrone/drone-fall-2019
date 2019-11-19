@@ -17,8 +17,8 @@
    
    ## Next Steps
    
-   * %Suggestion 1%
-   * %Suggestion 2%
+   * %Bring a set of hex screwdrivers%
+   * %Bring your own solder.%
    * %Suggestion 3%
 
    ## Pictures
