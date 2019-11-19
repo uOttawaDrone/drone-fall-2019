@@ -23,7 +23,7 @@
 
    ## Pictures
    ### %Sodering%
-   ![soder](https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/Lab%20Picture/15741868066683635336218587353699.jpg)
+   ![soder](https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/Lab%20Picture/15741868066683635336218587353699.jpg "% Soder%")
    ### %Lower Frame without PSB:%
     
    ![Lower Frame](%https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/Lab%20Picture/Lower%20frame.jpg% "% Lower Frame%")
