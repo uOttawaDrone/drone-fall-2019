@@ -6,8 +6,8 @@
    ## Observations
     
    * We will need a small hex screwdriver needed for the frame (size not know).
-     * Bullet Point 1A
-   * Bullet Point 2
+   //  * Bullet Point 1A
+   //* Bullet Point 2
     
    ## Changes Made
     
@@ -17,18 +17,20 @@
    * Soldered the ESCs to the PSB.
    * Soldered the XT60 Connector to the cables.
    * Soldered an LED to the PSB for power indication.
+   * Taped off the PSB pads with electric tape as carbon fiber conducts electricity.
+   *
    
    ## Next Steps
    
    * Bring a set of hex screwdrivers.
    * Bring your own solder.
-   * Bring Electric Tape and Zipties
+   * Bring Electric Tape and Zipties.
    
 
    ## Pictures
-   ### Soldering
-
-   ![solder](https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/Lab%20Picture/15741868066683635336218587353699.jpg " Soldering ")
+   
+     //### Soldering
+     //![solder](https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/Lab%20Picture/15741868066683635336218587353699.jpg " Soldering ")
    
    ### Lower Frame without PSB:
     
@@ -37,6 +39,11 @@
    ### Power Supply Board
    
    ![Power Supply Board](https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/Lab%20Picture/power%20supply%20board.jpg  "PSB picture")
+   
+   ### Soldering
+
+   ![solder](https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/Lab%20Picture/15741868066683635336218587353699.jpg " Soldering ")
+
    
    ### Soldered PSB
    ![Soldered PSB](https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/Lab%20Picture/Soldered%20PSB.PNG?raw=true "Soldered PSB picture")
