@@ -1,4 +1,5 @@
-   # Build Log  -%2019/11/19% 
+  # LAB session is ongoing.
+  # Build Log  -%2019/11/19% 
     
    **Group Members:** % Kevin Toussaint %, %Victor Babineau%, %Sharabhoj Iyengar%, %Ahmed Al-Youssef%
   
@@ -29,4 +30,3 @@
    
    ![%Power Supply Board%](%https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/Lab%20Picture/power%20supply%20board.jpg% "%PSB picture%")
 
-# LAB session is ongoing.
