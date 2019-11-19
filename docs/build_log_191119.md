@@ -25,7 +25,7 @@
     
     ### %Lower Frame without PSB:%
     
-    ![%Click Here%](% % "%Lower Frame Picture%")
+    ![%Lower Frame%](%Lab Pictures/Lower Frame % "%Lower Frame Picture%")
     ### %Power Supply Board%
     
-    ![%Click Here%](% %PSB picture%")
+    ![%Power Supply Board%](% %PSB picture%")
