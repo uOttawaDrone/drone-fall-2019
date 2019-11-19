@@ -22,9 +22,9 @@
    * %Suggestion 3%
 
    ## Pictures
-   ### %Sodering%
+   ### %Soldering%
 
-   ![soder](%https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/Lab%20Picture/15741868066683635336218587353699.jpg% "% Soder%")
+   ![solder](%https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/Lab%20Picture/15741868066683635336218587353699.jpg% "% Soldering %")
    
    ### %Lower Frame without PSB:%
     
