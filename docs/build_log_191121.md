@@ -19,7 +19,9 @@
    ## Next Steps
    * Bring 4 AA batteries.
    * Solder a proper XT60 male connector.
-   * Program the RC.
+   * Program the RC and 6 channel receiver.
+   * Put on the props
+   * Bring velcrostraps for battery mount and cable management.
    * Calibrate the props.
 
    ## Pictures
