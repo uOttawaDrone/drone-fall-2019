@@ -32,7 +32,7 @@
    
    ### Full Frame build: 
 
-  ![Full frame](https://github.com/uOttawaDrone/drone-fall-2019/upload/master/docs/Lab%20Picture "Full frame")
+  ![Full frame]( https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/Lab%20Picture/Full%20frame.PNG "Full frame")
    
    ### Things to buy:
    * FPV Camera (Optional)
