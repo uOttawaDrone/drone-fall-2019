@@ -1,4 +1,5 @@
-  # Build Log -2019/11/19  (12:00-16:00)
+  #Lab in progress
+  # Build Log -2019/11/21  (12:00-16:00)
     
    **Group Members:**  Kevin Toussaint() , Victor Babineau(), Ahmed Al-Youssef(16-17), Arjuunan Arulnamby(13-18)
   
