@@ -25,7 +25,7 @@
    
    ## Next Steps
    * Calibration
-   * Replace flight controller with new one
+   * Replace flight controller with new one (will arrive Sunday)
    * Setup reciever and remote control
    
    
