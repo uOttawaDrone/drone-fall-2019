@@ -3,4 +3,4 @@
 
 Documentation & build logs directory.
 
-Please put all you're images under `\img`
+Please put all your images under `\img`
