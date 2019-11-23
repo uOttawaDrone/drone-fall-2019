@@ -38,22 +38,22 @@
    
    ### Lower Frame without PSB:
     
-   ![Lower Frame](https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/Lab%20Picture/Lower%20frame.jpg "Lower Frame")
+   ![Lower Frame](https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/img/Lower%20frame.jpg "Lower Frame")
    
    ### Power Supply Board
    
-   ![Power Supply Board](https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/Lab%20Picture/power%20supply%20board.jpg  "PSB picture")
+   ![Power Supply Board](https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/img/power%20supply%20board.jpg  "PSB picture")
    
    ### Soldering
 
-   ![solder](https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/Lab%20Picture/15741868066683635336218587353699.jpg " Soldering ")
+   ![solder](https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/img/15741868066683635336218587353699.jpg " Soldering ")
 
    
    ### Soldered PSB
-   ![Soldered PSB](https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/Lab%20Picture/Soldered%20PSB.PNG?raw=true "Soldered PSB picture")
+   ![Soldered PSB](https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/img/Soldered%20PSB.PNG?raw=true "Soldered PSB picture")
    
    ### PSB Frame Assembly
-   ![Assembly](https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/Lab%20Picture/Lower%20frame4.jpg "Assemblly")
+   ![Assembly](https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/img/Lower%20frame4.jpg "Assemblly")
    
    ### Things to buy:
    * FPV Camera (Optional)

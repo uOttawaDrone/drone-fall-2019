@@ -33,7 +33,7 @@
    
    
    
-   ### ![Full Build with props](https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/Lab%20Picture/FullBuildWProps.jpg   "FullBuildWProps.jpg")
+   ### ![Full Build with props](https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/img/FullBuildWProps.jpg   "FullBuildWProps.jpg")
    
    
    ## Things to buy:

@@ -27,11 +27,11 @@
    
    ### Connection Configration:
     
-   ![Connection Configration]( https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/Lab%20Picture/connection%20diagram.png "Connection Configration")
+   ![Connection Configration]( https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/img/connection%20diagram.png "Connection Configration")
    
    ### Full Frame build: 
 
-  ![Full frame]( https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/Lab%20Picture/Full%20frame.PNG "Full frame")
+  ![Full frame]( https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/img/Full%20frame.PNG "Full frame")
    
    ### Things to buy:
    * FPV Camera (Optional)
