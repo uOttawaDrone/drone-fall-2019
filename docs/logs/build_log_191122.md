@@ -12,7 +12,7 @@
     
    * Soldered the XT60 connector on to the power input cables
    * Made a washer out of heatshrink for better fastening for propellers
-   * Connected reciver to flight control
+    * Attempted to test for slip (inconclusive, check gif below).
    * Understanding of reciever inputs/outputs
    * Reciever input connections were installed
    
@@ -24,7 +24,8 @@
    
    
    ## Next Steps
-   * Calibration
+   * Binding Receiver and Emitter.
+   * Calibration.
    * Replace flight controller with new one (will arrive Sunday)
    * Setup reciever and remote control
    
@@ -35,6 +36,14 @@
    
    ### ![Full Build with props](https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/img/FullBuildWProps.jpg   "FullBuildWProps.jpg")
    
+   
+   ## Videos/GIFS
+   
+   
+   ### Prop slip washer test(inconclusive)
+   
+   
+   ### ![Prop Slip test]( https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/img/PropSlip.gif "PropSlip.GIF")
    
    ## Things to buy:
    * FPV Camera
