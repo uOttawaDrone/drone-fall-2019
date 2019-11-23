@@ -19,8 +19,8 @@
    
    ## Incidents
    
-   * LED indicator short circuited and caused a puff of smoke
-   * Input for controller snapped off during installation
+   * LED indicator short circuited and caused a puff of smoke 
+   * Input for controller snapped off during installation (the rest of the build is fine)
    
    
    ## Next Steps
