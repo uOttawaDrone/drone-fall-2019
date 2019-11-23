@@ -10,7 +10,7 @@
     
    ## Changes Made
     
-   * Soldered the XT60 connector on to the power input cabels
+   * Soldered the XT60 connector on to the power input cables
    * Made a washer out of heatshrink for better fastening for propellers
    * Connected reciver to flight control
    * Understanding of reciever inputs/outputs
