@@ -1,4 +1,4 @@
-# Purchases and Transactions -2019/11/22 lab:
+# Purchases and Transactions -2019/11/21 lab:
 * ### Electric Tape
   * **Price**
   * [Receipt]()
