@@ -1,55 +1,35 @@
-  # Build Log -2019/11/19  (11:30-16:00)
+  # Build Log -2019/11/25  (11:30-20:00)
     
    **Group Members:**  Kevin Toussaint(Full session) , Victor Babineau(Full session), Ahmed Al-Youssef(Full Session)
   
    ## Observations
     
-   * We will need a small hex screwdriver needed for the frame (size not known).
    * Might Need flux for future, smaller solders.
    
     
    ## Changes Made
     
    * Cable Management was undertaken to clean-up cluttered wires on the drone.
-     * The screws are not entirely secure. The frame is stable enough for flight.
-   * The power supply board was soldered to the battery connector.
+   * Connected the receiver to the flight controller (CC3D).
+   * Bound receiver and transmitter.
+   * Managed to establish a connection between the transmitter and the receiver monitored through the flight configurator LibrePilot.
+   * Failed to troubleshoot a persistent issue with LibrePilot that prevented configuration of the flight controller.
+    * This issue is widespread among the community and exists despite a determined attempt to solve the problem. We have bought a new board to rectify this problem. It isn't a guarantee that it'll function as intended, however its a gamble we took.
 
    
    ## Next Steps
    
-   * The next steps consists in testing the motors and soldering them to the ESCs.
-   * Add the radio receiver for the RC and test it.
-   * From there the motors can be fixed to the frame.
-   * The Flight controler, receiver and battery can be fixed to the frame.
-   * Bring a set of hex screwdrivers (kit).
-   * Bring your own solder.
-   * Bring longer screws to mount PSB to drone frame.
-   * Bring cable ties.
-   * Bring lipo battery to test circuit and motors. 
-   * USB mini B cable is needed.
+   * Buying the new board.
+   * Saving the configuration to LibrePilot.
+   * Calibration.
    
 
    ## Pictures
    
-   ### Lower Frame without PSB:
+   ### Real Time Receiver Signalling:
     
-   ![Lower Frame](https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/img/Lower%20frame.jpg "Lower Frame")
+   ![Lower Frame](https://githubblob/master/docs/img/Lower%20frame.jpg "Lower Frame")
    
-   ### Power Supply Board
+   ### Secondary Propeller Test
    
-   ![Power Supply Board](https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/img/power%20supply%20board.jpg  "PSB picture")
-   
-   ### Soldering
-
-   ![solder](https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/img/15741868066683635336218587353699.jpg " Soldering ")
-
-   
-   ### Soldered PSB
-   ![Soldered PSB](https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/img/Soldered%20PSB.PNG?raw=true "Soldered PSB picture")
-   
-   ### PSB Frame Assembly
-   ![Assembly](https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/img/Lower%20frame4.jpg "Assemblly")
-   
-   ### Things to buy:
-   * FPV Camera (Optional)
-   * FPV Transmitter and receiver (Optional)  
+   ![Power Supply Board](https:ower%20supply%20board.jpg  "PSB picture")
