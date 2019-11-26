@@ -28,8 +28,8 @@
    
    ### Real Time Receiver Signalling:
     
-   ![Lower Frame](https://githubblob/master/docs/img/Lower%20frame.jpg "Lower Frame")
+   ![Lower Frame](https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/img/transmitter%20signalling.gif "RealTimeSingaling.gif")
    
    ### Secondary Propeller Test
    
-   ![Power Supply Board](https:ower%20supply%20board.jpg  "PSB picture")
+   ![Power Supply Board](https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/img/Prop%20test.gif "PropTest2.gif")
