@@ -14,7 +14,7 @@
    * Bound receiver and transmitter.
    * Managed to establish a connection between the transmitter and the receiver monitored through the flight configurator LibrePilot.
    * Failed to troubleshoot a persistent issue with LibrePilot that prevented configuration of the flight controller.
-    * This issue is widespread among the community and exists despite a determined attempt to solve the problem. We have bought a new board to rectify this problem. It isn't a guarantee that it'll function as intended, however its a gamble we took.
+      * This issue is widespread among the community and exists despite a determined attempt to solve the problem. We have bought a new board to rectify this problem. It isn't a guarantee that it'll function as intended, however its a gamble we took.
 
    
    ## Next Steps
