@@ -22,10 +22,7 @@
 
    ## Pictures
    
-   ### Real Time Receiver Signalling:
+   ### New Frame set-up and Nable Management:
     
-   ![Lower Frame](https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/img/transmitter%20signalling.gif "RealTimeSingaling.gif")
+   ![New Frame and cable management](https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/img/Scan%20from%202019-12-01%2008_27_20%20PM.pdf "Scan from 2019-12-01 08_27_20 PM.pdf")
    
-   ### Secondary Propeller Test
-   
-   ![Power Supply Board](https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/img/Prop%20test.gif "PropTest2.gif")
