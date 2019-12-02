@@ -1,0 +1,31 @@
+  # Build Log -2019/12/01  (17:00-xx:00)
+    
+   **Group Members:**  Saketh Madireddy(Full session) , Victor Babineau(Full session), Ahmed Al-Youssef(Full Session), Sharabhoj Iyengar(Full Session), Arjuunan Arulnamby(Full Session)
+  
+   ## Observations
+    
+   * Drone is front-heavy in flight attempts
+   * More cable management, especially for the battery connector, is needed to ensure a safe flight.
+   
+    
+   ## Changes Made
+    
+   * Successful replaced the CC3D Flight Controller, the issue that prevented the saving of configuration data has been recitifed.
+   * Managed to control the Drone from the receiver.
+
+   
+   ## Next Steps
+   
+   * Consider buying a flight net, and a killswitch to enable rapid disarming of the drone.
+   * Additional calibration.
+   
+
+   ## Pictures
+   
+   ### Real Time Receiver Signalling:
+    
+   ![Lower Frame](https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/img/transmitter%20signalling.gif "RealTimeSingaling.gif")
+   
+   ### Secondary Propeller Test
+   
+   ![Power Supply Board](https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/img/Prop%20test.gif "PropTest2.gif")
