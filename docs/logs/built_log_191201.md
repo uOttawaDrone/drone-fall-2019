@@ -1,4 +1,4 @@
- # Build Log -2019/12/01  (17:00-xx:00)
+ # Build Log -2019/12/01  (17:00-20:00)
     
    **Group Members:**  Saketh Madireddy(Full session) , Victor Babineau(Full session), Ahmed Al-Youssef(Full Session), Sharabhoj Iyengar(Full Session), Arjuunan Arulnamby(Full Session)
   
