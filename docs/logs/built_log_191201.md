@@ -24,5 +24,5 @@
    
    ### New Frame set-up and Nable Management:
     
-   ![New Frame and cable management](https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/img/Scan%20from%202019-12-01%2008_27_20%20PM.pdf "Scan from 2019-12-01 08_27_20 PM.pdf")
+   ![New Frame and cable management](https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/img/New%20Frame%20set-up%20and%20Cable%20Management.pdf "New Frame set-up and Cable Management.pdf")
    
