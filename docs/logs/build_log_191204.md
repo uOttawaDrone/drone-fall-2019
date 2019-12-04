@@ -1,4 +1,4 @@
-  # Build Log -2019/12/04  (14:30-18:00)
+  # Build Log -2019/12/04  (14:30-17:00)
     
    **Group Members:**  Kevin Toussaint(Full session) , Victor Babineau(Full session)
   
