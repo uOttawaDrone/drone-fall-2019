@@ -20,7 +20,7 @@
    ## Pictures
 
    ### Test Bench
-   ![Test Bench](https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/img/TestBench.jpg"Testbench.jpg")
+   ![Test Bench](https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/img/TestBench.jpg "Testbench.jpg")
    
    ### Test Bench
    ![Test Flight](https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/img/testflight.gif "TestFlight.gif")
