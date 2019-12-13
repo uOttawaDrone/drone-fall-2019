@@ -27,9 +27,11 @@
 
    ## Pictures
    
-   ### New Frame set-up and Nable Management:
+   ### Camera Mounts:
     
    ![Camera Mounts](https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/img/Camera%20Mounts.jpg "Camera Mounts.jpg" )
+   
+   ### New Receiver Location:
    
    ![New Receiver Location](https://github.com/uOttawaDrone/drone-fall-2019/blob/master/docs/img/Receiver%20Location.jpg "Receiver Location.jpg" )
    
