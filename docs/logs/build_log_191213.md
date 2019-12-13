@@ -22,7 +22,7 @@
    * Additional calibration and weight distribution adjustments
    * Zipties
    * Shorten power cable 
-   * Obtain proper standoffs to mount the flight controller to the frame
+   * Obtain proper standoffs to mount the flight controller to the frame (currently taped down)
    
 
    ## Pictures
