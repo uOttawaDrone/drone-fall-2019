@@ -10,7 +10,7 @@
     
    ## Changes Made
     
-   * Rewired the system, and attached the camera mounts and feet.
+   * Rewired the system while improving cable management, and attached the camera mounts and feet.
    * Attachted receiver to underside of top plate for improved weight distribution.
    * Adjusted throttle curve for improved control
 
@@ -20,6 +20,9 @@
    * Take off mode for easy start-up? Maybe a certain input lifts the drone a few feet off the ground and hovers in place.
    * POV Camera for better flight control and prescision 
    * Additional calibration and weight distribution adjustments
+   * Zipties
+   * Shorten power cable 
+   * Obtain proper standoffs to mount the flight controller to the frame
    
 
    ## Pictures
