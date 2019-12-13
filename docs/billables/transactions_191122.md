@@ -4,11 +4,6 @@
   * [Receipt](https://github.com/uOttawaDrone/drone-fall-2019/blob/feature/-billables/docs/billables/receipts/Velcro%20Wraps%20Receipt.pdf)
   * Victor Babineau
   * *Reusable tie wraps to hold down the battery.*
-* ### 4xAA Batteries
-   * **Price**
-   *
-   * Arjuunan Arulnamby
-   * *Needed for the remote controller.*
 * ### XT60 Connectors
   * **CDN$ 12.89**
   * [Receipt](https://github.com/uOttawaDrone/drone-fall-2019/blob/feature/-billables/docs/billables/receipts/XT60%20Connectors%20Receipt.pdf)
