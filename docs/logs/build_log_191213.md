@@ -4,7 +4,7 @@
   
    ## Observations
     
-   * Drone flies well, much more stable than before
+   * Drone flies well, much more stable than before (Sucess!)
    * Power cable needs to be shortened to keep away from props
    
     
