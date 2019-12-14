@@ -1,6 +1,6 @@
  # Build Log -2019/12/13  (13:00-16:00)
     
-   **Group Members:**  Victor Babineau, Nick Mucci, Oluwatobi Alabi (CAD)
+   **Group Members:**  Victor Babineau, Nick Mucci
   
    ## Observations
     
