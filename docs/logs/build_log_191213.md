@@ -1,6 +1,6 @@
  # Build Log -2019/12/13  (13:00-16:00)
     
-   **Group Members:**  Victor Babineau, Nick Mucci
+   **Group Members:**  Victor Babineau, Nick Mucci, Oluwatobi Alabi (CAD)
   
    ## Observations
     
@@ -12,7 +12,8 @@
     
    * Rewired the system while improving cable management, and attached the camera mounts and feet.
    * Attachted receiver to underside of top plate for improved weight distribution.
-   * Adjusted throttle curve for improved control
+   * Adjusted throttle curve for improved 
+   * A CAD file for a battery mount was created.
 
    
    ## Next Steps
@@ -21,10 +22,12 @@
    * POV Camera for better flight control and prescision 
    * Additional calibration and weight distribution adjustments
    * Zipties
-   * Shorten power cable 
-   * Obtain proper standoffs to mount the flight controller to the frame (currently taped down)
+   * Shorten power cable.
+   * Obtain proper standoffs to mount the flight controller to the frame (currently taped down).
+   * The battery mount needs to be optimized and 3D-printed.
    
-
+   ## CAD: 
+   
    ## Pictures
    
    ### Camera Mounts:
